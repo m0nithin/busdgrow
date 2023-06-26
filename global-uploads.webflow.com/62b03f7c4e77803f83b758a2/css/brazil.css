@@ -18,7 +18,7 @@ html {
 
 
 /* .scroll-indicator {
-  background: #ffe602;
+  background: #f5730a;
 } */
 
 body {
@@ -3558,8 +3558,8 @@ a {
 .feature-wrap.a {
   margin-bottom: 100px;
   padding-top: 100px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#ffe602), color-stop(14%, rgba(0, 5, 32, 0)), color-stop(88%, rgba(0, 5, 32, 0)), to(#ffe602)), radial-gradient(circle farthest-side at 50% 50%, rgba(1, 253, 248, 0.1), rgba(1, 253, 248, 0));
-  background-image: linear-gradient(180deg, #ffe602, rgba(0, 5, 32, 0) 14%, rgba(0, 5, 32, 0) 88%, #ffe602), radial-gradient(circle farthest-side at 50% 50%, rgba(1, 253, 248, 0.1), rgba(1, 253, 248, 0));
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#f5730a), color-stop(14%, rgba(0, 5, 32, 0)), color-stop(88%, rgba(0, 5, 32, 0)), to(#f5730a)), radial-gradient(circle farthest-side at 50% 50%, rgba(1, 253, 248, 0.1), rgba(1, 253, 248, 0));
+  background-image: linear-gradient(180deg, #f5730a, rgba(0, 5, 32, 0) 14%, rgba(0, 5, 32, 0) 88%, #f5730a), radial-gradient(circle farthest-side at 50% 50%, rgba(1, 253, 248, 0.1), rgba(1, 253, 248, 0));
 }
 
 .size1-text {
@@ -4016,7 +4016,7 @@ a {
 
 .sidebar-icon:hover {
   border-color: #02f4ff;
-  background-color: #ffe602;
+  background-color: #f5730a;
 }
 
 .xxl-heading {
@@ -4588,7 +4588,7 @@ a {
   -ms-flex-align: center;
   align-items: center;
   border-bottom: 1px solid rgba(192, 192, 211, 0.2);
-  background-color: #ffe602;
+  background-color: #f5730a;
   -webkit-transform: translate3d(0px, 0px, 1000px);
   transform: translate3d(0px, 0px, 1000px);
   -webkit-transform-style: preserve-3d;
@@ -4697,7 +4697,7 @@ a {
   height: 80px;
   border-right: 1px solid rgba(192, 192, 211, 0.2);
   border-bottom: 1px solid rgba(192, 192, 211, 0.2);
-  background-color: #ffe602;
+  background-color: #f5730a;
   -webkit-transform: translate3d(0px, 0px, 1111px);
   transform: translate3d(0px, 0px, 1111px);
   -webkit-transform-style: preserve-3d;
@@ -5125,8 +5125,8 @@ a {
 }
 
 .black-to-blue {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#000), color-stop(61%, #ffe602));
-  background-image: linear-gradient(180deg, #000, #ffe602 61%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#000), color-stop(61%, #f5730a));
+  background-image: linear-gradient(180deg, #000, #f5730a 61%);
 }
 
 .road-end {
@@ -5150,8 +5150,8 @@ a {
   z-index: 10;
   height: 30vh;
   margin-top: -8vh;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 5, 32, 0)), color-stop(97%, #ffe602));
-  background-image: linear-gradient(180deg, rgba(0, 5, 32, 0), #ffe602 97%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 5, 32, 0)), color-stop(97%, #f5730a));
+  background-image: linear-gradient(180deg, rgba(0, 5, 32, 0), #f5730a 97%);
 }
 
 .road-title {
@@ -5935,7 +5935,7 @@ a {
 .outline-button.white-fill {
   grid-column-gap: 20px;
   background-color: #fff;
-  color: #ffe602;
+  color: #f5730a;
 }
 
 .simple-title {
@@ -5992,7 +5992,7 @@ a {
   border-color: rgba(0, 0, 0, 0.38);
   border-radius: 30px;
   background-color: #fff;
-  color: #ffe602;
+  color: #f5730a;
 }
 
 .form-text-field-2:focus {
@@ -6051,7 +6051,7 @@ a {
   background-color: #fff;
   -webkit-transition: background-color 400ms ease, opacity 400ms ease, color 400ms ease;
   transition: background-color 400ms ease, opacity 400ms ease, color 400ms ease;
-  color: #ffe602;
+  color: #f5730a;
   font-size: 20px;
   font-weight: 700;
   text-decoration: none;
@@ -7292,7 +7292,7 @@ a {
     -ms-flex-align: center;
     align-items: center;
     grid-column-gap: 10px;
-    background-color: #ffe602;
+    background-color: #f5730a;
   }
 
   .right-nav {
@@ -7339,7 +7339,7 @@ a {
   }
 
   .link-cover-2 {
-    background-color: #ffe602;
+    background-color: #f5730a;
   }
 
   .left-nav-2 {
@@ -7363,7 +7363,7 @@ a {
     grid-row-gap: 0px;
     -ms-grid-columns: 1fr;
     grid-template-columns: 1fr;
-    background-color: #ffe602;
+    background-color: #f5730a;
   }
 
   .menu-button-2 {
@@ -7516,7 +7516,7 @@ a {
     -ms-flex-align: center;
     align-items: center;
     grid-column-gap: 10px;
-    background-color: #ffe602;
+    background-color: #f5730a;
   }
 
   .token-percent {
@@ -8301,7 +8301,7 @@ a {
     width: 100vw;
     margin-right: 0px;
     padding-top: 0px;
-    background-color: #ffe602;
+    background-color: #f5730a;
   }
 
   .navigation-content-2 {
@@ -8440,7 +8440,7 @@ a {
   }
 
   .link-cover-2 {
-    background-color: #ffe602;
+    background-color: #f5730a;
   }
 
   .left-nav-2 {
@@ -8462,7 +8462,7 @@ a {
   }
 
   .nav-menu-links-2 {
-    background-color: #ffe602;
+    background-color: #f5730a;
   }
 
   .menu-button-2 {
